@@ -14,7 +14,7 @@ Projektowanie profesjonalnego systemu business intelligence (P1)
 
 * Proszę podzielić się w zespoły 2-3 osobowe, każdy z zespołów wybiera osobę prowadzącą
 * Prace projektowe odbywać będą się w Organizacji AzureDevOps utworzonej przez prowadzącego
-* Do organizacji proszę dodać konta wszystkich użytkowników zespołu oraz konto prowadzącego (tkostyrka@wsei.edu.pl)
+* Do organizacji proszę dodać konta wszystkich użytkowników zespołu oraz moje konto (tkostyrka@wsei.edu.pl) - uprawnienia na poziomie Basic
 * Proszę założyć repozytorium o nazwie [ProjektTestowy]
 * Proszę założyć repozytorium o nazwie [ProjektZaliczeniowy]
 
