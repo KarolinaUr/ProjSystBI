@@ -1,6 +1,15 @@
 # ProjSystBI
 Projektowanie profesjonalnego systemu business intelligence (P1)
 
+## Pomysły na projekt
+
+* http://api.nbp.pl/
+* https://zappysys.com/blog/read-twitter-data-in-ssis-using-rest-api-task-json-source-oauth2/
+* https://api.coindesk.com/v1/bpi/currentprice.json
+* https://openweathermap.org/api
+* https://opendata.cityofnewyork.us/
+* https://www.forbes.com/sites/bernardmarr/2018/02/26/big-data-and-ai-30-amazing-and-free-public-data-sources-for-2018/
+
 ## Zadania
 
 ### 2018-10-21
