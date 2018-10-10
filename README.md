@@ -1,6 +1,13 @@
 # ProjSystBI
 Projektowanie profesjonalnego systemu business intelligence (P1)
 
+## Proponwane teminy konsultacji
+
+* 25-11-2018 w godz. 09:30 - 12:00
+* 09-12-2018 w godz. 09:30 - 12:00
+* 20-01-2019 w godz. 14:30 - 15:30
+* 03-02-2019 w godz. 09:30 - 15:30
+
 ## Pomysły na projekt
 
 * http://api.nbp.pl/
